@@ -1,0 +1,13 @@
+C:\Users\PC-01\Desktop\19.11.2709\taxi\bin\Debug\netcoreapp3.1\taxi.exe
+C:\Users\PC-01\Desktop\19.11.2709\taxi\bin\Debug\netcoreapp3.1\taxi.deps.json
+C:\Users\PC-01\Desktop\19.11.2709\taxi\bin\Debug\netcoreapp3.1\taxi.runtimeconfig.json
+C:\Users\PC-01\Desktop\19.11.2709\taxi\bin\Debug\netcoreapp3.1\taxi.runtimeconfig.dev.json
+C:\Users\PC-01\Desktop\19.11.2709\taxi\bin\Debug\netcoreapp3.1\taxi.dll
+C:\Users\PC-01\Desktop\19.11.2709\taxi\bin\Debug\netcoreapp3.1\taxi.pdb
+C:\Users\PC-01\Desktop\19.11.2709\taxi\obj\Debug\netcoreapp3.1\taxi.csprojAssemblyReference.cache
+C:\Users\PC-01\Desktop\19.11.2709\taxi\obj\Debug\netcoreapp3.1\taxi.csproj.CoreCompileInputs.cache
+C:\Users\PC-01\Desktop\19.11.2709\taxi\obj\Debug\netcoreapp3.1\taxi.AssemblyInfoInputs.cache
+C:\Users\PC-01\Desktop\19.11.2709\taxi\obj\Debug\netcoreapp3.1\taxi.AssemblyInfo.cs
+C:\Users\PC-01\Desktop\19.11.2709\taxi\obj\Debug\netcoreapp3.1\taxi.dll
+C:\Users\PC-01\Desktop\19.11.2709\taxi\obj\Debug\netcoreapp3.1\taxi.pdb
+C:\Users\PC-01\Desktop\19.11.2709\taxi\obj\Debug\netcoreapp3.1\taxi.genruntimeconfig.cache
