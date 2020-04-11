@@ -1,0 +1,4 @@
+C:\Users\PC-01\Desktop\19.11.2709\LatihanInheritance\obj\Debug\netcoreapp3.1\LatihanInheritance.csproj.CoreCompileInputs.cache
+C:\Users\PC-01\Desktop\19.11.2709\LatihanInheritance\obj\Debug\netcoreapp3.1\LatihanInheritance.AssemblyInfoInputs.cache
+C:\Users\PC-01\Desktop\19.11.2709\LatihanInheritance\obj\Debug\netcoreapp3.1\LatihanInheritance.AssemblyInfo.cs
+C:\Users\PC-01\Desktop\19.11.2709\LatihanInheritance\obj\Debug\netcoreapp3.1\LatihanInheritance.csprojAssemblyReference.cache
