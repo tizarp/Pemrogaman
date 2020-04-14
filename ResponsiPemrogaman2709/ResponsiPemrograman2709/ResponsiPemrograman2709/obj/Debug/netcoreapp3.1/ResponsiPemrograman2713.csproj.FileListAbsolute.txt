@@ -1,0 +1,13 @@
+F:\19.11.2713\responsi\ResponsiPemrograman2713\ResponsiPemrograman2713\bin\Debug\netcoreapp3.1\ResponsiPemrograman2713.exe
+F:\19.11.2713\responsi\ResponsiPemrograman2713\ResponsiPemrograman2713\bin\Debug\netcoreapp3.1\ResponsiPemrograman2713.deps.json
+F:\19.11.2713\responsi\ResponsiPemrograman2713\ResponsiPemrograman2713\bin\Debug\netcoreapp3.1\ResponsiPemrograman2713.runtimeconfig.json
+F:\19.11.2713\responsi\ResponsiPemrograman2713\ResponsiPemrograman2713\bin\Debug\netcoreapp3.1\ResponsiPemrograman2713.runtimeconfig.dev.json
+F:\19.11.2713\responsi\ResponsiPemrograman2713\ResponsiPemrograman2713\bin\Debug\netcoreapp3.1\ResponsiPemrograman2713.dll
+F:\19.11.2713\responsi\ResponsiPemrograman2713\ResponsiPemrograman2713\bin\Debug\netcoreapp3.1\ResponsiPemrograman2713.pdb
+F:\19.11.2713\responsi\ResponsiPemrograman2713\ResponsiPemrograman2713\obj\Debug\netcoreapp3.1\ResponsiPemrograman2713.csprojAssemblyReference.cache
+F:\19.11.2713\responsi\ResponsiPemrograman2713\ResponsiPemrograman2713\obj\Debug\netcoreapp3.1\ResponsiPemrograman2713.csproj.CoreCompileInputs.cache
+F:\19.11.2713\responsi\ResponsiPemrograman2713\ResponsiPemrograman2713\obj\Debug\netcoreapp3.1\ResponsiPemrograman2713.AssemblyInfoInputs.cache
+F:\19.11.2713\responsi\ResponsiPemrograman2713\ResponsiPemrograman2713\obj\Debug\netcoreapp3.1\ResponsiPemrograman2713.AssemblyInfo.cs
+F:\19.11.2713\responsi\ResponsiPemrograman2713\ResponsiPemrograman2713\obj\Debug\netcoreapp3.1\ResponsiPemrograman2713.dll
+F:\19.11.2713\responsi\ResponsiPemrograman2713\ResponsiPemrograman2713\obj\Debug\netcoreapp3.1\ResponsiPemrograman2713.pdb
+F:\19.11.2713\responsi\ResponsiPemrograman2713\ResponsiPemrograman2713\obj\Debug\netcoreapp3.1\ResponsiPemrograman2713.genruntimeconfig.cache
