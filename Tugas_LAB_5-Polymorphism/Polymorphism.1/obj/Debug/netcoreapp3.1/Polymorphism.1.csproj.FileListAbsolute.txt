@@ -1,0 +1,26 @@
+E:\pemrograman\responsi\Polymorphism.1\Polymorphism.1\bin\Debug\netcoreapp3.1\Polymorphism.1.exe
+E:\pemrograman\responsi\Polymorphism.1\Polymorphism.1\bin\Debug\netcoreapp3.1\Polymorphism.1.deps.json
+E:\pemrograman\responsi\Polymorphism.1\Polymorphism.1\bin\Debug\netcoreapp3.1\Polymorphism.1.runtimeconfig.json
+E:\pemrograman\responsi\Polymorphism.1\Polymorphism.1\bin\Debug\netcoreapp3.1\Polymorphism.1.runtimeconfig.dev.json
+E:\pemrograman\responsi\Polymorphism.1\Polymorphism.1\bin\Debug\netcoreapp3.1\Polymorphism.1.dll
+E:\pemrograman\responsi\Polymorphism.1\Polymorphism.1\bin\Debug\netcoreapp3.1\Polymorphism.1.pdb
+E:\pemrograman\responsi\Polymorphism.1\Polymorphism.1\obj\Debug\netcoreapp3.1\Polymorphism.1.csprojAssemblyReference.cache
+E:\pemrograman\responsi\Polymorphism.1\Polymorphism.1\obj\Debug\netcoreapp3.1\Polymorphism.1.csproj.CoreCompileInputs.cache
+E:\pemrograman\responsi\Polymorphism.1\Polymorphism.1\obj\Debug\netcoreapp3.1\Polymorphism.1.AssemblyInfoInputs.cache
+E:\pemrograman\responsi\Polymorphism.1\Polymorphism.1\obj\Debug\netcoreapp3.1\Polymorphism.1.AssemblyInfo.cs
+E:\pemrograman\responsi\Polymorphism.1\Polymorphism.1\obj\Debug\netcoreapp3.1\Polymorphism.1.dll
+E:\pemrograman\responsi\Polymorphism.1\Polymorphism.1\obj\Debug\netcoreapp3.1\Polymorphism.1.pdb
+E:\pemrograman\responsi\Polymorphism.1\Polymorphism.1\obj\Debug\netcoreapp3.1\Polymorphism.1.genruntimeconfig.cache
+C:\Users\PC-01\Desktop\Folder Baru\Polymorphism_LAB_5-master\Polymorphism.1\bin\Debug\netcoreapp3.1\Polymorphism.1.exe
+C:\Users\PC-01\Desktop\Folder Baru\Polymorphism_LAB_5-master\Polymorphism.1\bin\Debug\netcoreapp3.1\Polymorphism.1.deps.json
+C:\Users\PC-01\Desktop\Folder Baru\Polymorphism_LAB_5-master\Polymorphism.1\bin\Debug\netcoreapp3.1\Polymorphism.1.runtimeconfig.json
+C:\Users\PC-01\Desktop\Folder Baru\Polymorphism_LAB_5-master\Polymorphism.1\bin\Debug\netcoreapp3.1\Polymorphism.1.runtimeconfig.dev.json
+C:\Users\PC-01\Desktop\Folder Baru\Polymorphism_LAB_5-master\Polymorphism.1\bin\Debug\netcoreapp3.1\Polymorphism.1.dll
+C:\Users\PC-01\Desktop\Folder Baru\Polymorphism_LAB_5-master\Polymorphism.1\bin\Debug\netcoreapp3.1\Polymorphism.1.pdb
+C:\Users\PC-01\Desktop\Folder Baru\Polymorphism_LAB_5-master\Polymorphism.1\obj\Debug\netcoreapp3.1\Polymorphism.1.csprojAssemblyReference.cache
+C:\Users\PC-01\Desktop\Folder Baru\Polymorphism_LAB_5-master\Polymorphism.1\obj\Debug\netcoreapp3.1\Polymorphism.1.csproj.CoreCompileInputs.cache
+C:\Users\PC-01\Desktop\Folder Baru\Polymorphism_LAB_5-master\Polymorphism.1\obj\Debug\netcoreapp3.1\Polymorphism.1.AssemblyInfoInputs.cache
+C:\Users\PC-01\Desktop\Folder Baru\Polymorphism_LAB_5-master\Polymorphism.1\obj\Debug\netcoreapp3.1\Polymorphism.1.AssemblyInfo.cs
+C:\Users\PC-01\Desktop\Folder Baru\Polymorphism_LAB_5-master\Polymorphism.1\obj\Debug\netcoreapp3.1\Polymorphism.1.dll
+C:\Users\PC-01\Desktop\Folder Baru\Polymorphism_LAB_5-master\Polymorphism.1\obj\Debug\netcoreapp3.1\Polymorphism.1.pdb
+C:\Users\PC-01\Desktop\Folder Baru\Polymorphism_LAB_5-master\Polymorphism.1\obj\Debug\netcoreapp3.1\Polymorphism.1.genruntimeconfig.cache
