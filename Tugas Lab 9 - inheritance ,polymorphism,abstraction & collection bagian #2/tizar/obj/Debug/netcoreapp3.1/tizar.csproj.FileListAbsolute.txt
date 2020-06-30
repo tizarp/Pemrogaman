@@ -1,0 +1,13 @@
+E:\pemrograman\pertemuan12\tizar\tizar\bin\Debug\netcoreapp3.1\tizar.exe
+E:\pemrograman\pertemuan12\tizar\tizar\bin\Debug\netcoreapp3.1\tizar.deps.json
+E:\pemrograman\pertemuan12\tizar\tizar\bin\Debug\netcoreapp3.1\tizar.runtimeconfig.json
+E:\pemrograman\pertemuan12\tizar\tizar\bin\Debug\netcoreapp3.1\tizar.runtimeconfig.dev.json
+E:\pemrograman\pertemuan12\tizar\tizar\bin\Debug\netcoreapp3.1\tizar.dll
+E:\pemrograman\pertemuan12\tizar\tizar\bin\Debug\netcoreapp3.1\tizar.pdb
+E:\pemrograman\pertemuan12\tizar\tizar\obj\Debug\netcoreapp3.1\tizar.csprojAssemblyReference.cache
+E:\pemrograman\pertemuan12\tizar\tizar\obj\Debug\netcoreapp3.1\tizar.AssemblyInfoInputs.cache
+E:\pemrograman\pertemuan12\tizar\tizar\obj\Debug\netcoreapp3.1\tizar.AssemblyInfo.cs
+E:\pemrograman\pertemuan12\tizar\tizar\obj\Debug\netcoreapp3.1\tizar.csproj.CoreCompileInputs.cache
+E:\pemrograman\pertemuan12\tizar\tizar\obj\Debug\netcoreapp3.1\tizar.dll
+E:\pemrograman\pertemuan12\tizar\tizar\obj\Debug\netcoreapp3.1\tizar.pdb
+E:\pemrograman\pertemuan12\tizar\tizar\obj\Debug\netcoreapp3.1\tizar.genruntimeconfig.cache
