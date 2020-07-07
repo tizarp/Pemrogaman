@@ -1,0 +1,13 @@
+E:\pemrograman\hoiru\hoiru\bin\Debug\netcoreapp3.1\hoiru.exe
+E:\pemrograman\hoiru\hoiru\bin\Debug\netcoreapp3.1\hoiru.deps.json
+E:\pemrograman\hoiru\hoiru\bin\Debug\netcoreapp3.1\hoiru.runtimeconfig.json
+E:\pemrograman\hoiru\hoiru\bin\Debug\netcoreapp3.1\hoiru.runtimeconfig.dev.json
+E:\pemrograman\hoiru\hoiru\bin\Debug\netcoreapp3.1\hoiru.dll
+E:\pemrograman\hoiru\hoiru\bin\Debug\netcoreapp3.1\hoiru.pdb
+E:\pemrograman\hoiru\hoiru\obj\Debug\netcoreapp3.1\hoiru.csprojAssemblyReference.cache
+E:\pemrograman\hoiru\hoiru\obj\Debug\netcoreapp3.1\hoiru.AssemblyInfoInputs.cache
+E:\pemrograman\hoiru\hoiru\obj\Debug\netcoreapp3.1\hoiru.AssemblyInfo.cs
+E:\pemrograman\hoiru\hoiru\obj\Debug\netcoreapp3.1\hoiru.csproj.CoreCompileInputs.cache
+E:\pemrograman\hoiru\hoiru\obj\Debug\netcoreapp3.1\hoiru.dll
+E:\pemrograman\hoiru\hoiru\obj\Debug\netcoreapp3.1\hoiru.pdb
+E:\pemrograman\hoiru\hoiru\obj\Debug\netcoreapp3.1\hoiru.genruntimeconfig.cache
